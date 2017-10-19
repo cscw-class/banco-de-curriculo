@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Anderson Joaquim"
+date:   2017-10-18 15:08:10 -0500
+img: img/portfolio/anderson.jpeg
+modalID: modalCabin
+category: Design
+urlCV: https://Santosanderson.github.io/online-cv/
+---
+Anderson Joaquim 
+Aluno
